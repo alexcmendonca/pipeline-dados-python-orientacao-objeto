@@ -9,6 +9,7 @@ Duas empresas recentemente se uniram, cada uma com suas próprias bases de dados
 O objetivo final é disponibilizar esses dados consolidados para a equipe de Business Intelligence (BI), capacitando-os a criar relatórios detalhados, extrair insights valiosos e compreender os resultados decorrentes dessa fusão empresarial. Essas análises buscará responder questões cruciais, se as vendas aumentaram, diminuíram ou se concentraram predominantemente na empresa A ou B.
 
 ## 📄 Atividades Realizadas
+|Atividade |Atividade  |
 |----------|-----------|
 |Estruturar um projeto de engenharia de dados|Mudar o comportamento do método get do tipo dicionário|
 |Comandos Linux de criação de pastas|Utilizar o for e o get para construir uma nova estrutura de lista de listas|

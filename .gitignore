@@ -1,0 +1,8 @@
+/.venv
+anotacoes.txt
+testes.py
+dados_empresaA.json:Zone.Identifier
+dados_empresaB.csv:Zone.Identifier
+/scripts_aula
+fusao_mercado_fev.py:Zone.Identifier
+processamento_dados.py:Zone.Identifier
